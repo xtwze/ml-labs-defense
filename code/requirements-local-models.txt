@@ -1,0 +1,7 @@
+torch>=2.5
+transformers>=4.57,<5
+huggingface-hub>=0.26,<1
+llama-cpp-python==0.3.16
+nbformat>=5
+nbclient>=0.10
+ipykernel>=6

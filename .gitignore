@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+.routerai-labs.env
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.idea/
+code/api_requests.jsonl
+code/assets/outbox/
+code/assets/lab08_cache/
+code/assets/*.sha256
+code/assets/*.mp3
+code/assets/*.wav

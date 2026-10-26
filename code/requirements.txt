@@ -1,0 +1,11 @@
+langchain-core>=1,<2
+langchain-openai>=1,<2
+langchain-classic>=1,<2
+langgraph>=1,<2
+nbformat>=5
+nbclient>=0.10
+ipykernel>=6
+requests>=2
+Pillow>=10
+pydantic>=2,<3
+rank-bm25>=0.2
